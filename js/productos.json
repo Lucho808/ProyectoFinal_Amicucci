@@ -1,0 +1,182 @@
+[
+    {
+        "id": "funko-pop-01",
+        "titulo": "Funko Pop Seiya",
+        "imagen": "./img/Saint_seiya_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Caballeros del zodiaco",
+            "id": "anime"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-02",
+        "titulo": "Funko Pop Shiryu",
+        "imagen": "./img/Shiryu_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Caballeros del zodiaco",
+            "id": "anime"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-03",
+        "titulo": "Funko Pop Ikki",
+        "imagen": "./img/ikki_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Caballeros del zodiaco",
+            "id": "anime"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-04",
+        "titulo": "Funko Pop Shun",
+        "imagen": "./img/Shun_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Caballeros del zodiaco",
+            "id": "anime"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-05",
+        "titulo": "Funko Pop Hyoga",
+        "imagen": "./img/Hyoga_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Caballeros del zodiaco",
+            "id": "anime"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-06",
+        "titulo": "Funko Pop Ironman",
+        "imagen": "./img/ironman_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-07",
+        "titulo": "Funko Pop Thor",
+        "imagen": "./img/thor_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-08",
+        "titulo": "Funko Pop Spiderman",
+        "imagen": "./img/spider_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-09",
+        "titulo": "Funko Pop Flash",
+        "imagen": "./img/flash_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-10",
+        "titulo": "Funko Pop Messi",
+        "imagen": "./img/messi_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-11",
+        "titulo": "Funko Pop Superman",
+        "imagen": "./img/superman_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-12",
+        "titulo": "Funko Pop Batman",
+        "imagen": "./img/batman_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-13",
+        "titulo": "Funko Pop Goku",
+        "imagen": "./img/goku_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-14",
+        "titulo": "Funko Pop Broly",
+        "imagen": "./img/broly_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-15",
+        "titulo": "Funko Pop Black",
+        "imagen": "./img/black_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-16",
+        "titulo": "Funko Pop Vegeta",
+        "imagen": "./img/vegeta_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-17",
+        "titulo": "Funko Pop Gohan",
+        "imagen": "./img/gohan_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funko-pop-18",
+        "titulo": "Funko Pop Freezer",
+        "imagen": "./img/freezer_funko_pop.jpg",
+        "categoria": {
+            "nombre": "Dbz",
+            "id": "dbz"
+        },
+        "precio": 1000
+    }
+]
